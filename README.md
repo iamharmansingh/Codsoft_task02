@@ -1,2 +1,3 @@
 # Codsoft_task02
-To detect fraudulent credit card transactions.
+To Develop a model to predict customer churn for a subscription-
+based service or business..
